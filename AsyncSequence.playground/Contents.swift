@@ -2,7 +2,7 @@ import UIKit
 import PlaygroundSupport
 import Foundation
 
-/// Async Sequence
+/// Async Sequence - ios academy
 
 /// 画像をダウンロードするためのURL
 let urlString = "https://source.unsplash.com/random"
